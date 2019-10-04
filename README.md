@@ -87,12 +87,12 @@ plate thread guide from (D) to (E). To cut off excess thread, pull thread to the
 
 Hoop Overview
 ![0_hoop.png](./images/0_hoop.png)
-1.Embroidery hoop connector
-2.Outer hoop
-3.Inner hoop
-4.Quick release
-5.Retaining screw
-6.Center marks
+1. Embroidery hoop connector
+2. Outer hoop
+3. Inner hoop
+4. Quick release
+5. Retaining screw
+6. Center marks
 
 #### Putting Fabric in the Hoop
 
@@ -105,7 +105,7 @@ To put the fabric into the hoop, place the outer hoop on the table,open the quic
 
 ![Slide hoop on or off](./images/hoop_on_off.png)
 
-Slide the hoop connector into the hoop attachment (A) from front to back until it clicks into place. To remove the hoop from the embroidery arm, press the grey button (B) on the hoop attachment and slide the hoop towards you.
+Slide the hoop connector into the hoop attachment (A), it will click into place. You will need to raise the presser foot past the raised position to make sure the hoop can fit underneath. To remove the hoop from the embroidery arm, press the grey button (B) on the hoop attachment and slide the hoop towards you.
 
 
 
@@ -113,15 +113,13 @@ Slide the hoop connector into the hoop attachment (A) from front to back until i
 
 ### Raising/Lowering the Presser Foot
 
-![Slide hoop on or off](./images/adjust_presser_foot.png)
+![Slide hoop on or off](./images/adjust_presser_foot.PNG)
 
-The presser foot is lowered or raised with the presser foot lift
-(A). If you are sewing on heavy fabric or several layers of
-fabric, the presser foot can be raised higher (B) to make it
-easier to place the fabric underneath the presser foot.
+The presser foot is lowered or raised with the presser foot lift, it is raised when lifted up (A), and lowered when pushed down (B) . The presser foot can be raised higher (C) to make it
+easier to slide the the embroidery hoop into location.
 
 ### Raising/Lowering the Needle
 
-![handwheel](./images/handwheel.png)
+![handwheel](./images/handwheel.PNG)
 
 Turn the Handwheel (A) to raise or lower the needle manually.
