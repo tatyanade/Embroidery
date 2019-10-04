@@ -109,7 +109,19 @@ Slide the hoop connector into the hoop attachment (A) from front to back until i
 
 
 
-## Using the Machine Basics 
+## Machine Basics 
 
 ### Raising/Lowering the Presser Foot
+
+![Slide hoop on or off](./images/adjust_presser_foot.png)
+
+The presser foot is lowered or raised with the presser foot lift
+(A). If you are sewing on heavy fabric or several layers of
+fabric, the presser foot can be raised higher (B) to make it
+easier to place the fabric underneath the presser foot.
+
 ### Raising/Lowering the Needle
+
+![handwheel](./images/handwheel.png)
+
+Turn the Handwheel (A) to raise or lower the needle manually.
