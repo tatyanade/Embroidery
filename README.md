@@ -5,7 +5,7 @@
 
 ## Turning on the Machine
 
-![diagram of right side of the machine](.\images\0_machine_power.png)
+![diagram of right side of the machine](./images/0_machine_power.png)
 
 Plug the power cord into the power socket (A), located on the right side of the 
 
@@ -31,7 +31,7 @@ between an embroidery needle and sewing needle. Note that both work in embroider
 
 mode, but the embroidery needle is less prone to fraying or breaking the thread.
 
-![Changing the needle](.\images\changing_the_needle.png)
+![Changing the needle](./images/changing_the_needle.png)
 
 Loosen the needle screw with the screwdriver, this will allow you to pull the needle 
 
@@ -47,7 +47,7 @@ screw with the screwdriver
 
 With the power off, remove the current foot.
 
-![2019-09-20_20h10_43.png](.\images\0_feet.png)
+![2019-09-20_20h10_43.png](./images/0_feet.png)
 
 
 ### Changing out the Unit
@@ -58,7 +58,7 @@ This is the embroidery unit, it holds the embroidery hoop in place and allows th
 
 machine to move the hoop in the x and y directions.
 
-![0_embroidery_unit.png](.\images\0_embroidery_unit.png)
+![0_embroidery_unit.png](./images/0_embroidery_unit.png)
 1. Embroidery unit plug
 2. Embroidery arm
 3. Embroidery unit release button (underside)
@@ -99,7 +99,7 @@ thread, pull thread to the right, over the blade (E).
 #### Bobbin Winding
 
 #### Loading the Bobbin
-![0_slide_in.gif](.\images\0_slide_in.gif)
+![0_slide_in.gif](./images/0_slide_in.gif)
 
 
 
@@ -110,7 +110,7 @@ thread, pull thread to the right, over the blade (E).
 #### Hoop Overview
 
 Hoop Overview
-![0_hoop.png](.\images\0_hoop.png)
+![0_hoop.png](./images/0_hoop.png)
 1.Embroidery hoop connector
 2.Outer hoop
 3.Inner hoop
@@ -120,14 +120,14 @@ Hoop Overview
 
 #### Putting Fabric in the Hoop
 
-![0_hoop_prep.png](.\images\0_hoop_prep.png)
+![0_hoop_prep.png](./images/0_hoop_prep.png)
 
 
 To put the fabric into the hoop, place the outer hoop on the table,open the quick release(A)and loosen the screw(B). Put the fabric backing and fabric on top of the hoop, with the fabric on the topmost. Then, place the inner hoop on top of the fabric, and press it firmly into the outer hoop. Close the quick release, and turn the screw until the fabric is secured firmly. The fabric should be taut for best results.
 
 #### Attaching the Hoop 
 
-![Slide hoop on or off](https://raw.githubusercontent.com/tatyanade/Embroidery/master/images/hoop_on_off.png)
+![Slide hoop on or off](./images/hoop_on_off.png)
 
 Slide the hoop connector into the hoop attachment (A) from front to back until it clicks into place. To remove the hoop from the embroidery arm, press the grey button (B) on the hoop attachment and slide the hoop towards you.
 
