@@ -60,24 +60,61 @@ Attach the embroidry unit by sliding it into location - it will snap into place.
 
 
 ## Preparing to Embroider
-Make sure the needle is fully raised and the machine is turned off before inserting or removing the bobbin.
+
+
+
+### Preparing your Bobbin
+
+#### Refilling a Bobbin
+
+##### Winding the Bobbin Horizontally
+
+![winding_bobbin](./images/wind_bobbin.PNG)
+![winding_bobbin](./images/wind_bobbin_load_thread.png)
+
+1. Place the felt pad and thread spool on the spool pin in horizontal position. Slide on a spool cap of the right type and direction.
+
+2. Place the thread under the thread guide (A) from right to left. Pull the thread to the rear and around the thread guide (B) from left to right, then around thread guide (C) and into the notch (D).
+
+3. Pull thread to the right and then through the thread guide (E) from front to back. Pass thread under tension disc (F) in clockwise direction. 
+Note: Make sure the thread is pulled securely inside the tension disc
+for correct thread tension.
+
+4. Thread through the hole in the empty bobbin (G) from the inside to the outside.
+
+![winding_bobbin](./images/bobbin_loading_onto_machine.png)
+
+5. Place the bobbin on the bobbin winder spindle. 
+
+6. Push the bobbin spindle to the right to wind. A pop-up appears on the screen to inform you that bobbin winding is active. Press the start/stop button to start winding the bobbin. Hold the end of the thread firmly when starting to wind. When the bobbin is full, press the start/stop button again to stop. Push the bobbin spindle to the left. The pop-up closes. Remove the 
+bobbin and cut the thread using the bobbin thread cutter
+(H).
+
+*Note: When winding the bobbin from auxiliary spool pin, do not hook
+thread to the guide (C) and notch (D).*
+
+
+
+##### Winding the Bobbin from the Needle
+![winding_bobbin](./images/wind_bobbin_needle.png)
+
+Make sure the presser foot is raised and the needle is in its
+highest position.
+Note: Use a metal presser foot when bobbin winding from the needle. Pull the thread from the needle under the presser foot and to the right through the thread guide (A).
+
+#### Loading the Bobbin
+
+*Make sure the needle is fully raised and the machine is turned off before inserting or removing the bobbin.*
+
+
+![loading_bobbin](./images/load_bobbin.PNG)
+
 1. Open the bobbin cover by pushing the release button to the right (A). Remove the cover (B). 
 2. Insert the bobbin in the bobbin case with the thread running in a counterclockwise direction. 
 3. With a finger held gently on top of the bobbin, pull the thread into notch (C). Then pull the thread at arrow
 markings into the needle plate thread guide from (C) to (D). Pull the thread at the arrow markings into the needle
 plate thread guide from (D) to (E). To cut off excess thread, pull thread to the right, over the blade (E).
 4. Replace the bobbin cover
-
-
-### Preparing your Bobbin
-
-#### Bobbin Winding
-
-#### Loading the Bobbin
-
-![winding_bobbin](./images/wind_bobbin.png)
-
-
 
 
 
@@ -94,12 +131,12 @@ Hoop Overview
 5. Retaining screw
 6. Center marks
 
-#### Putting Fabric in the Hoop
+#### Preparing the Hoop
 
 ![0_hoop_prep.png](./images/0_hoop_prep.png)
 
 
-To put the fabric into the hoop, place the outer hoop on the table,open the quick release(A)and loosen the screw(B). Put the fabric backing and fabric on top of the hoop, with the fabric on the topmost. Then, place the inner hoop on top of the fabric, and press it firmly into the outer hoop. Close the quick release, and turn the screw until the fabric is secured firmly. The fabric should be taut for best results.
+To put the fabric into the hoop, place the outer hoop on the table,open the quick release (A) and loosen the screw (B). Put the fabric backing and fabric on top of the hoop, with the fabric on the topmost. Then, place the inner hoop on top of the fabric, and press it firmly into the outer hoop. Close the quick release, and turn the screw until the fabric is secured firmly. The fabric should be taut for best results.
 
 #### Attaching and Removing Hoop 
 
