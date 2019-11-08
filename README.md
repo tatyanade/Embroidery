@@ -1,5 +1,13 @@
 - [Using the Embroidery Machine](#using%20the%20Embroidery%20Machine)
   * [Turning on the Machine](#turning%20on%the%20machine)
+  * [Preparing the Machine for Embroidery](#preparing%20the%20machine%20for%20embroidery)
+    + [Changing the Needle](#changing%20the%20needle)
+    + [Changing the Foot](#changing%20the%20foot)
+    + [Changing the Unit](#changing%20the%20unit)
+  * [Preparing to Embroider](#preparing%20to%20embroider)
+    + [Changing the bobbin](#changing%20the%20bobbin)
+
+
 
 # Using the Embroidery Machine
 
@@ -13,7 +21,7 @@
 Plug the power cord into the power socket (A), located on the right side of the machine. Once it's plugged in, you can turn the machine on using the power switch (B) 
 
 
-## Preparing the Machine for Embroidery:
+## Preparing the Machine for Embroidery
 
 In this section, we will go over how to prepare the machine for embroidery. You will want to do this with the machine *off*. This will require us to attach the embroidery unit, and the embroidery foot, and optionally an embroidery needle.
 
@@ -66,7 +74,7 @@ Attach the embroidry unit by sliding it into location - it will snap into place.
 
 
 
-### Preparing your Bobbin
+### Preparing the Bobbin
 
 #### Refilling a Bobbin
 
