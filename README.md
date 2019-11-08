@@ -1,5 +1,5 @@
-- [Using the Embroidery Machine](#using%20the%20Embroidery%20Machine)
-  * [Turning on the Machine](#turning%20on%the%20machine)
+- [Using the Embroidery Machine](#using-the-Embroidery-Machine)
+  * [Turning on the Machine](#turning-on-the-machine)
   * [Preparing the Machine for Embroidery](#preparing%20the%20machine%20for%20embroidery)
     + [Changing the Needle](#changing%20the%20needle)
     + [Changing the Foot](#changing%20the%20foot)
