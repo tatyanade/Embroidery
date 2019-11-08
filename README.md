@@ -19,7 +19,7 @@ In this section, we will go over how to prepare the machine for embroidery. You 
 
 You will need to change the needle if the needle is broken, or if you need to switch between an embroidery needle and sewing needle. Note that both work in embroidery mode, but the embroidery needle is less prone to fraying or breaking the thread.
 
-![Changing the needle](./images/changing_the_needle.png)
+![Changing the needle](./images/changing_the_needle.PNG)
 
 Loosen the needle screw with the screwdriver, this will allow you to pull the needle out through the bottom. Once it's out, you can insert the new needle upwards with the flat side away from you. Push it all the way up, and then tighten the needle screw with the screwdriver
 
