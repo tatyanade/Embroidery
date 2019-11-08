@@ -231,6 +231,7 @@ You can increase or decrease the size of the deisgn up to 20%. Use the first set
 #### Rotating and Mirroring the Design
 
 ![mirror or rotate](./images/rotate_mirror.png)
+
 To rotate the design around its center point, press the rotate button (B). This will rotate the design 90 degrees clockwise. If the design is to large to rotate by 90 degrees, the rotate button will rotate it 180 degrees.
 
 The Mirror buttons, (A) and (C), will mirror the design horizontally and vertically.
@@ -238,6 +239,7 @@ The Mirror buttons, (A) and (C), will mirror the design horizontally and vertica
 #### Placing the Design
 
 ![controls for_placing](./images/placing_design.png)
+
 *note that pressing OK will NOT start embroidering, but will recenter your design on the screen*
 
 You can use the 4 arrow keys to move your design around and determine where on the fabric it will be embroidered. You can use the **Corner Check** button (1) to preview the size by having the machine trace the corners of your design so you can see the actual size and placement of your file.
