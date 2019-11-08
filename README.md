@@ -5,10 +5,19 @@
     + [Changing the Foot](#changing-the-foot)
     + [Changing the Unit](#changing-the-unit)
   * [Preparing to Embroider](#preparing-to-embroider)
-    + [Changing the bobbin](#changing-the-bobbin)
-
-
-
+    + [Preparing the bobbin](#preparing-the-bobbin)
+      - [Refilling a Bobbin](#refilling-a-bobbin)
+        * [Winding the Bobbin Horizontally](#winding-the-bobbin-horizontally)
+        * [Winding the Bobbin from the Needle](#winding-the-bobbin-from-the-needle)
+      - [Loading the Bobbin](#loading-the-bobbin)
+    + [Getting the Hoop Ready](#getting-the-hoop-ready)      
+      - [Hoop Overview](#hoop-overview)      
+      - [Preparing the Hoop](#preparing-the-hoop)      
+      - [Attaching and Removing the Hoop)(#attaching-and-removing-the-hoop)
+  * [Machine Basics](#machine-basics)      
+    + [Raising/Lowering the Presser Foot](#raisinglowering-the-presser-foot)
+    + [Raising/Lowering the Needle](#raisinglowering-the-presser-foot) 
+    
 # Using the Embroidery Machine
 
 
@@ -129,7 +138,7 @@ plate thread guide from (D) to (E). To cut off excess thread, pull thread to the
 
 
 
-### Getting your hoop ready
+### Getting the Hoop Ready
 
 #### Hoop Overview
 
@@ -149,7 +158,7 @@ Hoop Overview
 
 To put the fabric into the hoop, place the outer hoop on the table,open the quick release (A) and loosen the screw (B). Put the fabric backing and fabric on top of the hoop, with the fabric on the topmost. Then, place the inner hoop on top of the fabric, and press it firmly into the outer hoop. Close the quick release, and turn the screw until the fabric is secured firmly. The fabric should be taut for best results.
 
-#### Attaching and Removing Hoop 
+#### Attaching and Removing the Hoop 
 
 ![Slide hoop on or off](./images/hoop_on_off.png)
 
