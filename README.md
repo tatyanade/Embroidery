@@ -1,3 +1,6 @@
+- [Using the Embroidery Machine](#using%20the%20Embroidery%20Machine)
+  * [Turning on the Machine](#turning%20on%the%20machine)
+
 # Using the Embroidery Machine
 
 
