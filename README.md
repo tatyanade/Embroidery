@@ -197,17 +197,17 @@ Turn the Handwheel (A) to raise or lower the needle manually.
 
 # Embroidering
 
-*illustrations grabbed from machine [manual](Manual.pdf)*
-
 ## Saving a File
 *note that the Husqvarna Viking can only read .vp3 files*
 
-Once you have a file ready to embroider, save it onto the Husqvarna Viking flash drive
+Once you have a file ready to embroider, plug the USB into your laptop and save your file within the desired folder.
+
 ## Starting an Embroidery
 
 ### Opening a File
 ![USB port](./images/usb_port.png)
 
+To open a file, plug the USB into the embroidery machine, then turn the machine on.
 #### Setting the Hoop Size
 
 ![hoop_options_button](./images/hoop_options_button.png)
@@ -222,7 +222,7 @@ Select the hoop size you are planning on using, if a specific size is unselectab
 
 #### Resizing the Design
 
-![resizing](./images/resize.png)
+![resizing](./images/resizing.png)
 
 
 You can increase or decrease the size of the deisgn up to 20%. Use the first set of + and - (1) to adjust the height, and the second set of + and 0 (2) to adjust the width. Each press of a button scales by 5%. The stitch count remains the same throughout resizing.
@@ -246,7 +246,25 @@ You can use the 4 arrow keys to move your design around and determine where on t
 
 
 
+### Start Embroidering!
 
+*Before you start embroidering, make sure that the bobbin has enough thread to finish your design, as you cannot replace it without restarting the embroidery*
+
+to start the embroidery, press the Stop/Start button. follow directions of the screen.
+
+### While Embroidering...
+
+#### Rethreading the needle
+
+The thread may break while you are embroidering. If it does, the machine will stop and ask you to RETHREAD the needle.
+
+#### Changing Color for Multicolored embroideries
+
+If you're design has multiple colors, the machine will stop after it is done with one color section, and ask you to switch thread. To do this, remove the spool and rethread the machine with the new desired color.
+
+### Finishing the embroidery
+
+When the emboridery is done, the screen will let you know. Cut the thread and Remove the hoop. Open the hoop and take out the embrodiery
 
 
 
