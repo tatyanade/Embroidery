@@ -82,7 +82,7 @@ for correct thread tension.
 
 4. Thread through the hole in the empty bobbin (G) from the inside to the outside.
 
-![winding_bobbin](./images/bobbin_loading_onto_machine.png)
+![winding_bobbin](./images/bobbin_loading_onto_machine.PNG)
 
 5. Place the bobbin on the bobbin winder spindle. 
 
