@@ -1,11 +1,11 @@
 - [Using the Embroidery Machine](#using-the-Embroidery-Machine)
   * [Turning on the Machine](#turning-on-the-machine)
-  * [Preparing the Machine for Embroidery](#preparing%20the%20machine%20for%20embroidery)
-    + [Changing the Needle](#changing%20the%20needle)
-    + [Changing the Foot](#changing%20the%20foot)
-    + [Changing the Unit](#changing%20the%20unit)
-  * [Preparing to Embroider](#preparing%20to%20embroider)
-    + [Changing the bobbin](#changing%20the%20bobbin)
+  * [Preparing the Machine for Embroidery](#preparing-the-machine-for-embroidery)
+    + [Changing the Needle](#changing-the-needle)
+    + [Changing the Foot](#changing-the-foot)
+    + [Changing the Unit](#changing-the-unit)
+  * [Preparing to Embroider](#preparing-to-embroider)
+    + [Changing the bobbin](#changing-the-bobbin)
 
 
 
