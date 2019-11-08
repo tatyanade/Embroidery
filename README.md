@@ -17,7 +17,7 @@
   * [Machine Basics](#machine-basics)      
     + [Raising/Lowering the Presser Foot](#raisinglowering-the-presser-foot)
     + [Raising/Lowering the Needle](#raisinglowering-the-presser-foot) 
- - [Embroidering](#Embroidering]
+ - [Embroidering](#Embroidering)
    * [Saving a file](#saving-a-file)
    * [Starting and Embroidery](#starting-an-embroidery)
      + [Opening a File](#opening-a-file)
