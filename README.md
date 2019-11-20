@@ -25,6 +25,12 @@
        - [Resizing the design](#resizing-the-design)
        - [Rotating and Mirroring the Design](#rotating-and-mirroring-the-design)
        - [Placing the Design](#placing-the-design)
+     + [Start Embroidering!](#start-embroidering)
+     + [While Embroidering...](#while-embroidering)
+       - [rethreading the needle](#rethreading-the-needle)
+       - [Changing Color for Multicolored Embroideries](#changing-color-for-multicolored-embroideries)
+     + [Finishing the Embroidery](#finishing-the-embroidery)
+       
 
    
    
