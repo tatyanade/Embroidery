@@ -8,7 +8,6 @@
     + [Preparing the bobbin](#preparing-the-bobbin)
       - [Refilling a Bobbin](#refilling-a-bobbin)
         * [Winding the Bobbin Horizontally](#winding-the-bobbin-horizontally)
-        * [Winding the Bobbin from the Needle](#winding-the-bobbin-from-the-needle)
       - [Loading the Bobbin](#loading-the-bobbin)
     + [Getting the Hoop Ready](#getting-the-hoop-ready)      
       - [Hoop Overview](#hoop-overview)      
@@ -132,14 +131,6 @@ bobbin and cut the thread using the bobbin thread cutter
 *Note: When winding the bobbin from auxiliary spool pin, do not hook
 thread to the guide (C) and notch (D).*
 
-
-
-##### Winding the Bobbin from the Needle
-![winding_bobbin](./images/wind_bobbin_needle.png)
-
-Make sure the presser foot is raised and the needle is in its
-highest position.
-Note: Use a metal presser foot when bobbin winding from the needle. Pull the thread from the needle under the presser foot and to the right through the thread guide (A).
 
 #### Loading the Bobbin
 
