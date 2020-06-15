@@ -139,6 +139,8 @@ thread to the guide (C) and notch (D).*
 
 ![loading_bobbin](./images/load_bobbin.PNG)
 
+**Note: Be sure that the bobbin is inserted with the thread wound counterclockwise**
+
 1. Open the bobbin cover by pushing the release button to the right (A). Remove the cover (B). 
 2. Insert the bobbin in the bobbin case with the thread running in a counterclockwise direction. 
 3. With a finger held gently on top of the bobbin, pull the thread into notch (C). Then pull the thread at arrow
